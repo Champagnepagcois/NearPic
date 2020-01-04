@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#73FFD5</color>
+    <color name="colorAccent">#775DE8</color>
+
+    <!-- colores para el boton -->
+    <color name="screen1">#E8E55D</color>
+    <color name="screen2">#FF8645</color>
+
+    <!-- colores para tabla y el texto de la pantalla-->
+    <color name="tab_indicador">#FF8075</color>
+    <color name="screen3">#73FFD5</color>
+    <color name="screen4">#775DE8</color>
+    <color name="intro_description">#73FFD5</color>
+    <color name="black">#000000</color>
+
+    <color name="naranja">#FF8075</color>
+    <color name="turquesa">#73FFD5</color>
+    <color name="masturquesa">#73FFD5</color>
+    <color name="white">#FFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="gray">#2E2E2E</color>
+
+
+
+
+
+
+</resources>
